@@ -26,7 +26,7 @@ Jupyter Notebook (`concrete-pressure-analysis.ipynb`) içerisinde sırasıyla ş
 
 Yapılan modelleme çalışmaları sonucunda, ağaç tabanlı algoritmalar (özellikle Random Forest ve XGBoost), veri setindeki doğrusal olmayan karmaşık ilişkileri yakalamada geleneksel regresyon modellerine göre çok daha üstün bir performans sergilemiştir. 
 
-> **Not:** En başarılı modelimiz olan `[LightGBM(Default)]` ile **`[0.9220]`** R² ve **`[4.0698]`** RMSE skorları elde edilmiştir.
+> **Not:** En başarılı modelimiz olan `LightGBM(Default)` ile **`0.9220`** R² ve **`4.0698`** RMSE skorları elde edilmiştir.
 
 ## 💻 Nasıl Çalıştırılır?
 
